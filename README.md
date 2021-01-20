@@ -1,3 +1,6 @@
+# Credits
+Thanks to https://github.com/inaciose/rosarm_control for the starting point!
+
 # rosarm_control
 ROS package with scripts to control simple robotic arms
 
